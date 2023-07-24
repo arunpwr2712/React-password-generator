@@ -58,7 +58,7 @@ Follow the steps below to set up the project:
 Clone the repository to your local machine using Git or download the source code as a ZIP file.
 
 
-git clone https://github.com/your-username/react-password-generator-app.git
+git clone https://github.com/arunpwr2712/React-password-generator
 
 
 cd react-password-generator-app
